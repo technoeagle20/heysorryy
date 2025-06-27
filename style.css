@@ -43,12 +43,12 @@ body {
 
 .page p, .music, .message {
   text-align: center;
-  font-size: 15px;
+  font-size: 19px;
   color: #333;
 }
 
 .music h3 {
-  margin: 4px 0;
+  margin: 5px 0;
   color: #6a0dad;
 }
 
@@ -59,7 +59,7 @@ body {
 
 .message h2 {
   color: #cd1b1b;
-  margin-bottom: 8px;
+  margin-bottom: 5px;
 }
 
 .flipped {
