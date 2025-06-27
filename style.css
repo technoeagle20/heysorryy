@@ -43,7 +43,7 @@ body {
 
 .page p, .music, .message {
   text-align: center;
-  font-size: 12px;
+  font-size: 15px;
   color: #333;
 }
 
@@ -53,7 +53,7 @@ body {
 }
 
 .music .controls {
-  font-size: 24px;
+  font-size: 25px;
   margin-top: 10px;
 }
 
